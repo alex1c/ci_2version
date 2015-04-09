@@ -1,0 +1,61 @@
+.bg {
+	background:#eeeeee;
+
+	border-radius:6px;
+	-webkit-border-radius:6px;
+	-moz-border-radius:5px;
+	-khtml-border-radius:10px;
+	border: 2px outset;
+
+}
+
+
+.newsblock {
+
+	width: 90%;
+	border-radius: 5px !important;
+
+
+	border: 2px outset ;
+	border-color: #000;
+
+}
+
+.navbar {
+
+	border-radius: 5px !important;
+
+
+}
+
+.navbar-brand {
+
+	margin-left: 100px !important;
+	max-height: 20px !important;
+
+}
+
+.imgsmile {
+
+	height: 60px !important;
+	width: 60px !important;
+
+
+	margin: auto;
+
+	margin-left: 40px;
+
+}
+.my-input{
+
+	float: right;
+	clear: fight;
+	margin-bottom: 5px;
+}
+
+
+
+
+
+
+
