@@ -15,8 +15,8 @@
 |
 */
 $config['base_url']	= 'http://calc.alex1c.com/';
-//$config['base_url']	= 'http://localhost:8080/ci_2version/';
-
+//$config['base_url']	= 'http://localhost/ci_2version/';
+	//$config['base_url']	= 'http://calc.alex1c.com/main/index/';
 /*
 |--------------------------------------------------------------------------
 | Index File
