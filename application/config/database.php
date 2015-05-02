@@ -45,25 +45,7 @@
 | the active record class
 */
 
-$active_group = 'default';
-$active_record = TRUE;
-//для интернета
-$db['default']['hostname'] = 'mysql.hostinger.ru';
-$db['default']['username'] = 'u163813434_calc';
-$db['default']['password'] = '12345678';
-$db['default']['database'] = 'u163813434_calc';
 
-//для работы
-//$db['default']['hostname'] = 'localhost:8080';
-//$db['default']['username'] = 'cicite';
-//$db['default']['password'] = '12345678';
-//$db['default']['database'] = 'calc_online';
-
-	//для локального
-//$db['default']['hostname'] = 'localhost';
-//$db['default']['username'] = 'cisite';
-//$db['default']['password'] = '12345678';
-//$db['default']['database'] = 'cisite';
 
 $db['default']['dbdriver'] = 'mysql';
 $db['default']['dbprefix'] = '';
